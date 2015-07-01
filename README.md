@@ -27,13 +27,13 @@ For example, the first player, Ann, begins a turn with a roll of 5. Ann could ho
 
 Normal
 =====
-Submit your game design notes with the gist
-Submit a working game with only one player. I.e. one player rolls unitl he hits 100 or more
+Submit your game design notes with the gist.
+Submit a working game with only one player. I.e. one player rolls unitl he hits 100 or more.
 Use Functions as necessary.
 
 Hard
 =====
-Mutiple Players can play also construct classes with properties and methods representing the game (i.e. dice, player, etc class)
+Mutiple Players can play also construct classes with properties and methods representing the game (i.e. dice, player, etc class).
 
 Nightmare
 ======
